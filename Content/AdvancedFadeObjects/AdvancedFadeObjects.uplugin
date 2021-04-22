@@ -2,8 +2,8 @@
 	"FileVersion": 3,
 	"Version": 1,
 	"VersionName": "1.0.6",
-	"FriendlyName": "AdvancedFadeObjects",
-	"Description": "AdvancedFadeObjects",
+	"FriendlyName": "bb",
+	"Description": "cc",
 	"Category": "Fly Dream Dev",
 	"CreatedBy": "Fly Dream Dev",
 	"CreatedByURL": "",
@@ -15,7 +15,7 @@
 	"Installed": true,
 	"Modules": [
 		{
-			"Name": "AdvancedFadeObjects",
+			"Name": "aa",
 			"Type": "Runtime",
 			"LoadingPhase": "Default",
 			"WhitelistPlatforms": [
